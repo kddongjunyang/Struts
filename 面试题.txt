@@ -1,0 +1,70 @@
+面试
+
+JVM的内存结构（必问）?
+	参见:http://blog.csdn.net/zhaozheng7758/article/details/8623562
+
+XML和JSON的区别？
+
+
+HashTable和HashMap的区别？
+
+
+Mysql、Oracle的分页？
+
+
+Linux的常用命令（必问）？
+	echo “aa” 》 test.txt 和 echo “bb” 》》 test.txt
+	echo $［5*5］ //算术运算
+	cd - //返回上次目录
+
+	.. .. ..
+简述设计模式（懒汉、饿汉、装饰者等）？
+
+
+Hibernate何时不适用？
+
+
+Tomcat、Weblogic的区别？
+
+
+缓存框架？
+
+
+请求路径.action .do结尾的问题？
+
+
+Hibernate的二级缓存（必问，很喜欢问）？
+
+
+Java基本数据类型？int所占的字节数？
+	byte/short/int(4B)/long/float/double/char/boolean
+
+
+什么是Http？
+
+
+简述Socket？
+
+
+GET和POST的区别？
+
+
+TCP和UDP的异同？
+
+
+Cookie的作用？
+
+
+Spring的安全（线程安全？）问题？
+
+
+Java如何新建线程（必问，很喜欢问）？
+
+
+Sql优化问题？
+
+
+Struts与SpringMVC的区别？
+
+
+
